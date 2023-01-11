@@ -31,8 +31,8 @@ End the pogram
 ### PROGRAM:
 
 #Program to find the distance between two points.  
-#Developed by: MIDHUN AZHAHU RAJA P  
-#RegisterNumber: 22008311   
+#Developed by: VAISHALI BALAMURUGAN
+#RegisterNumber: 22008813
 import math  
 l2=[10,6]  
 l1=[4,2]  

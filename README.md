@@ -31,13 +31,17 @@ End the pogram
 ### PROGRAM:
 
 #Program to find the distance between two points.  
-#Developed by: MIDHUN AZHAHU RAJA P  
-#RegisterNumber: 22008311   
+#Developed by: VAISHALI BALAMURUGAN 
+
+#RegisterNumber: 22008813
+```
 import math  
 l2=[10,6]  
 l1=[4,2]  
 dist=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))  
 print("{:.2f}".format(dist))  
+
+```
 
 ### OUTPUT :
 
